@@ -6,6 +6,11 @@ body {
 width: 100%;
 }
 
+
+.principal{
+    background-color: #CCCCCC;
+}
+
 h1{
     color: darkmagenta;
     background: #f05bed;
@@ -23,4 +28,16 @@ p {
 
 em strong{
     color:red;
+}
+
+.itens{
+    font-style:italic;
+}
+
+.beneficios{
+    background: #FFFFFF
+}
+
+h2 {
+    text-align: center;
 }
